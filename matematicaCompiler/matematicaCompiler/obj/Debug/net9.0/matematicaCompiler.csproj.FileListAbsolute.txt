@@ -1,0 +1,15 @@
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\bin\Debug\net9.0\matematicaCompiler.exe
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\bin\Debug\net9.0\matematicaCompiler.deps.json
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\bin\Debug\net9.0\matematicaCompiler.runtimeconfig.json
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\bin\Debug\net9.0\matematicaCompiler.dll
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\bin\Debug\net9.0\matematicaCompiler.pdb
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.AssemblyInfo.cs
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.dll
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\refint\matematicaCompiler.dll
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.pdb
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.genruntimeconfig.cache
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\ref\matematicaCompiler.dll
+C:\Users\mateu\source\repos\matematicaCompiler\matematicaCompiler\obj\Debug\net9.0\matematicaCompiler.sourcelink.json
